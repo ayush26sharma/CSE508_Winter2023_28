@@ -3,5 +3,5 @@ A repository for all the assignments of the course Information Retrieval, winter
 
 Contributors: 
 - Ayush Sharma (2020042)
-- Rupin Oberoi (20220571)
+- Rupin Oberoi (2020571)
 - Aditya Jain (2020554)
